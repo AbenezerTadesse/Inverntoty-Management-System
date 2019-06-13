@@ -3,9 +3,6 @@
 
 /*
 Abenezer Tadesse
-CSCI 2312 Final Project
-12/06/16
-Meets all requirement. Compiles successfully on cse grid
 
 
 Renatl Store Inventory Management Program
