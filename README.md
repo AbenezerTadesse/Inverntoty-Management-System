@@ -1,4 +1,4 @@
-# Inverntoty-Management-System
+# Inverntoty Management System
 
 The Inventory Items in this program are Movie and Books. This program allows the user to keep track of these items. Each item is assigned a unique digit ID number. All items have title, price, and numbe of copies in stock. In addition all movies have director's full name and run time, whereas Books have author full name and total number of pages.
 
